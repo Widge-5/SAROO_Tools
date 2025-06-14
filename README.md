@@ -43,6 +43,14 @@ Example of a looping animated GIF, that includes no pause.
 
 ---
 
+## Elsewhere on GitHub
+
+If you create your own background GIFs and music, I recommend sending them to [WilliamDSW's repo](https://github.com/williamdsw/saroo-backgrounds) for inclusion in their collection.
+
+The official Saroo Github repository is at [https://github.com/tpunix/SAROO](https://github.com/tpunix/SAROO)
+
+---
+
 This utility is provided **as-is**, free to use and distribute.  Please do not modify before distribution.  Attribution appreciated.
 
 Please consider subscribing to my YouTube channel and supporting me on ko-fi.
@@ -52,4 +60,7 @@ Please consider subscribing to my YouTube channel and supporting me on ko-fi.
 - 📺 [youtube.com/@Widge](https://www.youtube.com/@Widge)  
 - 📰 [therealwidge.co.uk](https://www.therealwidge.co.uk/)
 
-I also wrote a blog post for my website about the creation of this tool, please check it out.
+I also wrote a blog post for my website about the creation of this tool, check it out at [https://www.therealwidge.co.uk/2025/06/making-saroo-backgrounds-easily.html](https://www.therealwidge.co.uk/2025/06/making-saroo-backgrounds-easily.html)
+
+And there's now a YouTube video about it too : [Click the image to watch it...](https://www.youtube.com/watch?v=wmOiLromUjo)
+[![Watch the video](https://img.youtube.com/vi/wmOiLromUjo/maxresdefault.jpg)](https://www.youtube.com/watch?v=wmOiLromUjo)
