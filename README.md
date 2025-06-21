@@ -40,6 +40,10 @@ Example of a looping animated GIF, that includes no pause.
 
 ![Batman Background](examples/batman/mainmenu_bg.gif)
 
+Some more "Invincible" examples, a bit too busy for background imagery for my taste, but good proofs of concept:
+
+![Invincible Flying](examples/invincible_flying/mainmenu_bg.gif) ![Reaniman Punching](examples/invincible_reaniman/mainmenu_bg.gif) ![Invincible Punching](examples/invincible_punching/mainmenu_bg.gif)
+
 
 ---
 
